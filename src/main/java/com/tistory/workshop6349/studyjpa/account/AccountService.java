@@ -1,4 +1,4 @@
-package com.tistory.workshop6349.studyjpa.jpa;
+package com.tistory.workshop6349.studyjpa.account;
 
 import com.tistory.workshop6349.studyjpa.account.Account;
 import org.springframework.stereotype.Service;

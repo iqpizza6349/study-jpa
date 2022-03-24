@@ -1,6 +1,5 @@
-package com.tistory.workshop6349.studyjpa.jpa;
+package com.tistory.workshop6349.studyjpa.account;
 
-import com.tistory.workshop6349.studyjpa.account.Account;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
